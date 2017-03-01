@@ -103,7 +103,7 @@ google_analytics: "UA-92832939-1"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 0
+excerpt_length: 50
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
